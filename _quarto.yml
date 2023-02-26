@@ -1,0 +1,19 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Lớn lên cùng con"
+  navbar:
+    right:
+      - about.qmd
+      - icon: facebook
+        href: https://www.facebook.com/profile.php?id=100089799375489
+format:
+  html:
+    theme: journal
+    css: styles.css
+
+language: vn.yml
+editor: visual
+

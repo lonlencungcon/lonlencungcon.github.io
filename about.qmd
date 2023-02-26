@@ -1,0 +1,26 @@
+---
+title: "Xin chào"
+image: profile.jpeg
+about:
+  template: solana
+  links:
+    - icon: facebook
+      text: Facebook
+      href: https://www.facebook.com/profile.php?id=100089799375489
+---
+
+Xin chào,\
+
+Mình là Quỳnh Nhi, từ năm 2023, mình sẽ chính thức xây dựng các kênh thông tin liên quan đến sức khoẻ và giáo dục dựa trên hiểu biết và network của mình.
+
+Hy vọng sẽ mang lại giá trị cho cộng đồng, như những ngành học mà mình đã theo đuổi thời tuổi trẻ:
+
+-   Y tế công cộng (Đại học, tại Đại học Y Dược TPHCM, Việt Nam)
+
+-   Dinh dưỡng cộng đồng (Ths YTCC, chuyên ngành Public Health Nutrition, tại Đại học Công nghệ Queensland - QUT, Úc)
+
+-   Y khoa lâm sàng (Ts, tại Đại học Oxford, Anh; mình nghiên cứu về bệnh tiêu chảy, tình trạng kháng kháng sinh, sử dụng thuốc trong cộng đồng và bú sữa mẹ tại Việt Nam với Đơn vị nghiên cứu lâm sàng ĐH Oxford - OUCRU; Giáo sư hướng dẫn của mình là Stephen G Baker, người có sức ảnh hưởng vô cùng lớn đến mình về tình yêu đối với khoa học và con người, cũng như là nguồn cảm hứng về phong cách làm việc: học, làm và phát triển liên tục, không ngừng nghỉ!).
+
+Mình xin tiếp tục xây dựng, sẽ kiên trì và cống hiến các giá trị của mình, theo tinh thần được học hỏi từ những người thầy lớn. Nếu hữu ích, rất mong được mọi người ủng hộ và chia sẻ.\
+\
+Mình xin trân trọng cảm ơn!
